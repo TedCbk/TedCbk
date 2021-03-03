@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Javascript, Angular, PHP, Laravel and Symfony
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TedCbk&langs_count=3&bg_color=242121&text_color=ebe6e6)](https://github.com/TedCbk/github-readme-stats)
