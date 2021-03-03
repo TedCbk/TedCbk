@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Hi there, my name's Ted & i'm from France 🥖🧀 👋</h1> 
   
-  
-🌱 I’m currently learning Javascript, Angular, PHP, Laravel and Symfony
+  <h3>🌱 I’m currently learning Javascript, Angular, PHP, Laravel and Symfony</h3>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TedCbk&langs_count=3&bg_color=242121&text_color=ebe6e6)](https://github.com/TedCbk/github-readme-stats)
 </div>
