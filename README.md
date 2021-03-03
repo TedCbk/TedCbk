@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  ### Hi there, my name's Ted & i'm from France 🥖🧀 👋 
+  <h1>Hi there, my name's Ted & i'm from France 🥖🧀 👋</h1> 
   
   
 🌱 I’m currently learning Javascript, Angular, PHP, Laravel and Symfony
