@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h2>Hi there, my name's Ted & i'm from France 🥖🧀 👋</h1> 
-  
+  <h2>Hi, my name is Ted👋</h1> 
   <h3>🌱 I’m currently learning Javascript, Angular, PHP, Laravel and Symfony</h3>
-
+  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/7ZjmsISzWnreE/giphy.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TedCbk&langs_count=3&bg_color=242121&text_color=ebe6e6)](https://github.com/TedCbk/github-readme-stats)
 </div>
