@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
 <h3 align="center">A passionate fullstack developer fromFrance</h3>
-<div>
+
 - 🌱 I’m currently learning **Laravel, Angular, VueJs**
 
 - 📫 How to reach me **p0599847@protonmail.com** 
 
 
  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/7ZjmsISzWnreE/giphy.gif" />
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TedCbk&langs_count=3&bg_color=242121&text_color=ebe6e6)](https://github.com/TedCbk/github-readme-stats)
 
