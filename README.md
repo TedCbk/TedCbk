@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ted</h1>
-<h3 align="center">A passionate fullstack developer fromFrance</h3>
+
+<h3 align="center">My name is Ted, a passionate fullstack developer fromFrance</h3>
 
 - 🌱 I’m currently learning **Laravel, Angular, VueJs**
 
-- 📫 How to reach me **p0599847@protonmail.com** 
+Reach Me                 | [![Proton Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:p0599847@protonmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ted-crabeck/)
 
 
  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/7ZjmsISzWnreE/giphy.gif" />
