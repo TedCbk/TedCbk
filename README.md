@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, Angular, VueJs**
 
-Reach Me                 | [![Proton Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:p0599847@protonmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ted-crabeck/)
+[![Proton Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:p0599847@protonmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ted-crabeck/)
 
 
  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/7ZjmsISzWnreE/giphy.gif" />
